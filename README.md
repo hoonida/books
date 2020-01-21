@@ -1,6 +1,6 @@
 # books
 Hoonida-Kim
-Air Sculptor (Sound&NewMedia)
+Air Sculptor & Matamedia
 
 # 작가
  - 후니다킴
